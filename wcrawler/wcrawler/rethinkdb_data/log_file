@@ -1,0 +1,18 @@
+2018-03-15T00:37:32.017750305 0.156372s notice: Recursively removing directory /home/israel/Documents/crawler/wcrawler/wcrawler/rethinkdb_data/tmp
+2018-03-15T00:37:32.030939830 0.169561s notice: Initializing directory /home/israel/Documents/crawler/wcrawler/wcrawler/rethinkdb_data
+2018-03-15T00:37:32.031114699 0.169735s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/israel/Documents/crawler/wcrawler/wcrawler/rethinkdb_data' did not already exist or is empty.)
+2018-03-15T00:37:32.031186199 0.169806s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-03-15T00:37:32.037611079 0.176237s notice: Running on Linux 4.10.0-42-generic x86_64
+2018-03-15T00:37:32.037745623 0.176366s notice: Loading data from directory /home/israel/Documents/crawler/wcrawler/wcrawler/rethinkdb_data
+2018-03-15T00:37:32.129538866 0.268159s info: Automatically using cache size of 1184 MB
+2018-03-15T00:37:32.133175631 0.271796s notice: Listening for intracluster connections on port 29015
+2018-03-15T00:37:32.136239332 0.274860s notice: Listening for client driver connections on port 28015
+2018-03-15T00:37:32.136620253 0.275241s notice: Listening for administrative HTTP connections on port 8080
+2018-03-15T00:37:32.136622582 0.275243s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-03-15T00:37:32.136633236 0.275253s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-03-15T00:37:32.136638152 0.275258s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-03-15T00:37:32.136651332 0.275271s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-03-15T00:37:32.136658846 0.275279s notice: Server ready, "israel_VirtualBox_p5w" fa1b5c81-1ca2-496e-ad21-a472d1d4896d
+2018-03-15T00:42:00.272195545 268.410816s info: Table 031ca531-4a86-4f61-bb7d-5612b14a14f1: Starting a new Raft election for term 1.
+2018-03-15T00:42:00.273068945 268.411689s info: Table 031ca531-4a86-4f61-bb7d-5612b14a14f1: Added replica on this server.
+2018-03-15T00:42:00.281408856 268.420030s info: Table 031ca531-4a86-4f61-bb7d-5612b14a14f1: This server is Raft leader for term 1. Latest log index is 0.
